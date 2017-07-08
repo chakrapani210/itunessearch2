@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ITunes search</string>
+    <string name="search">Search</string>
+    <string name="track_name_label">Track Name:</string>
+    <string name="ok">Ok</string>
+    <string name="error_title">Error</string>
+    <string name="internet_unavailable">Wifi or Mobile Data is not connect. Please verify.</string>
+</resources>
